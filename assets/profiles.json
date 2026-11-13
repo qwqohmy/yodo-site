@@ -1,0 +1,106 @@
+[
+  {
+    "username": "demo01",
+    "name": "小語",
+    "bio": "喜歡好故事，也想遇見有趣的你。",
+    "categories": {
+      "book": 6,
+      "anime": 8,
+      "game": 8,
+      "music": 6,
+      "film": 1
+    },
+    "url": "profiles/demo01.html"
+  },
+  {
+    "username": "demo02",
+    "name": "Mika",
+    "bio": "週末追番，通勤交換歌單。",
+    "categories": {
+      "book": 6,
+      "anime": 8,
+      "game": 15,
+      "music": 6,
+      "film": 1
+    },
+    "url": "profiles/demo02.html"
+  },
+  {
+    "username": "demo03",
+    "name": "阿森",
+    "bio": "喜歡一起冒險，也喜歡聊故事。",
+    "categories": {
+      "book": 6,
+      "anime": 8,
+      "game": 8,
+      "music": 6,
+      "film": 1
+    },
+    "url": "profiles/demo03.html"
+  },
+  {
+    "username": "demo04",
+    "name": "小雨",
+    "bio": "最近重看芙莉蓮，想找人交換歌單。",
+    "categories": {
+      "book": 6,
+      "anime": 8,
+      "game": 8,
+      "music": 6,
+      "film": 1
+    },
+    "url": "profiles/demo04.html"
+  },
+  {
+    "username": "demo05",
+    "name": "阿默",
+    "bio": "喜歡冷門的好作品，歡迎互相推薦！",
+    "categories": {
+      "book": 6,
+      "anime": 8,
+      "game": 8,
+      "music": 6,
+      "film": 1
+    },
+    "url": "profiles/demo05.html"
+  },
+  {
+    "username": "demo06",
+    "name": "小宇",
+    "bio": "一起玩遊戲，也聊聊最近看的電影。",
+    "categories": {
+      "book": 6,
+      "anime": 8,
+      "game": 8,
+      "music": 6,
+      "film": 1
+    },
+    "url": "profiles/demo06.html"
+  },
+  {
+    "username": "demo07",
+    "name": "可可",
+    "bio": "閱讀、聽歌，收藏生活的小小靈感。",
+    "categories": {
+      "book": 6,
+      "anime": 8,
+      "game": 8,
+      "music": 6,
+      "film": 1
+    },
+    "url": "profiles/demo07.html"
+  },
+  {
+    "username": "demo08",
+    "name": "阿哲",
+    "bio": "找隊友，也找能聊上一整晚的朋友。",
+    "categories": {
+      "book": 6,
+      "anime": 8,
+      "game": 8,
+      "music": 6,
+      "film": 1
+    },
+    "url": "profiles/demo08.html"
+  }
+]
